@@ -22,6 +22,6 @@ To build a **clean, responsive landing page** using only **HTML and CSS**. The p
 
 ## 🚀 Live Preview
 
-[Click to View Live (optional if deployed)]([https://your-live-link.netlify.app](https://afreenkn.github.io/task1/))  
+([https://your-live-link.netlify.app](https://afreenkn.github.io/task1/))  
 
 
